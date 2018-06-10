@@ -28,6 +28,8 @@ public class ChangeMaker {
 		System.out.println(dimes + " dimes");
 		System.out.println(nickels + " nickels and");
 		System.out.println(pennies + " pennies");
+		
+		System.out.println("Perfect!");
 	}
 }
 
